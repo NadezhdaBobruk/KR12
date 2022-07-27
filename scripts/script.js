@@ -1,5 +1,5 @@
 window.onload = function () {
-
+// задание ввода данных
     let inputFullName = document.getElementById('input-fullName');
     inputFullName.onkeydown = (e) => {
         if (!isNaN(parseInt(e.key))) {
@@ -23,7 +23,7 @@ window.onload = function () {
         }
     }
 
-
+// валидация формы
     let inputEmail = document.getElementById('input-email');
     let inputPassword = document.getElementById('input-password');
     let inputRepeatPassword = document.getElementById('input-repeat-password');

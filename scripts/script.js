@@ -102,4 +102,6 @@ window.onload = function () {
             }
         }
     }
+
+    console.log("go home");
 }

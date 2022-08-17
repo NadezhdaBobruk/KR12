@@ -23,6 +23,8 @@ window.onload = function () {
         }
     }
 
+    console.log("go home");
+
 // валидация формы
     let inputEmail = document.getElementById('input-email');
     let inputPassword = document.getElementById('input-password');

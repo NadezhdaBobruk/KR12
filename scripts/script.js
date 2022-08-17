@@ -104,4 +104,5 @@ window.onload = function () {
     }
 
     console.log("happy new year");
+    console.log("go home");
 }
